@@ -29,7 +29,7 @@ getIt();
 
 frameIt();
 
-submitIt();
+pressIt();
 
 
 });
