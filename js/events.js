@@ -12,13 +12,6 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('form').on('keydown', function(e) {
-    if (e === 71) {
-      alert('you pressed G');
-    }
-  })
-}
-function pressIt() {
   $('input').on('keydown', function(key) {
     if(key.which == 71){
         alert('g was pressed');
