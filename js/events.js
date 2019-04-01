@@ -1,6 +1,6 @@
 //define functions here
 function getIt() {
-  $('p').addEventListener('click', function(event) {
+  $('p').on('click', function(event) {
     if(event === true) {
       alert('Hey!');
     }
