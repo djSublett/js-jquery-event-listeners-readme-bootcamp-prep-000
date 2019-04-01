@@ -31,5 +31,5 @@ frameIt();
 
 pressIt();
 
-
+submitIt();
 });
