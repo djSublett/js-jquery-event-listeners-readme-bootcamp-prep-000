@@ -1,9 +1,8 @@
 //define functions here
 function getIt() {
   $('p').on('click', function(event) {
-    if(event === true) {
       alert('Hey!');
-    }
+    
   })
 }
 
